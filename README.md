@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm vahdetlol</h1>
+<h1 align="center">Hi , I'm vahdetlol</h1>
 <h3 align="center">A npc from Turkiye</h3>
 
 <p align="left"> <a href="https://twitter.com/lolvahdet" target="blank"><img src="https://img.shields.io/twitter/follow/lolvahdet?logo=twitter&style=for-the-badge" alt="lolvahdet" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
+-  I’m currently working on **ado.watch**
 
-- 🌱 I’m currently learning **Js,css and react**
+-  I’m currently learning *React, typescript and Svelte**
 
-- 📫 How to reach me **vym3131@gmail.com**
+-  How to reach me **vym3131@gmail.com**
 
-- ⚡ Fun fact **I think im a npc**
+-  Fun fact **I think im a npc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
